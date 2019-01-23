@@ -1,0 +1,17 @@
+A primitive (primitive value, primitive data type) is data that is not an object and has no methods.
+In JavaScript, there are 6 primitive data types:
+
+- string, 
+- number, 
+- boolean,
+- null, 
+- undefined, 
+- symbol (new in ECMAScript 2015).
+
+All primitives are immutable, i.e., they cannot be altered. 
+It is important not to confuse a primitive itself with a variable assigned a primitive value. The variable may be reassigned a new value, but the existing value can not be changed in the ways that objects, arrays, and functions can be altered.
+
+A primitive can be replaced, but it can't be directly altered.
+
+
+
